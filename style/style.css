@@ -1,0 +1,13 @@
+.recipesList {
+  border: 7px;
+  background-color: aqua;
+  padding: 50px;
+  text-align: center;
+  margin: 40;
+  font-family: JetBrains Mono;
+  font-size: 20px;
+}
+
+#recipe1 {
+  display: inline-block;
+}
