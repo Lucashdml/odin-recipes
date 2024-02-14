@@ -12,14 +12,17 @@
 #recipe1 {
   flex: 1;
   background: skyblue;
+  border: 2px solid rgb(130, 0, 124);
 }
 
 #recipe2 {
   flex: 1;
   background: rgb(139, 236, 168);
+  border: 2px solid rgb(130, 0, 124);
 }
 
 #recipe3 {
   flex: 1;
   background: skyblue;
+  border: 2px solid rgb(130, 0, 124);
 }
